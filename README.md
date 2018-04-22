@@ -1,7 +1,7 @@
 Terraform modules for Azure
 ===========
 
-This repo includes reusable modules for Azure for quick servers spin up with the followings:
+This repo includes reusable terraform modules for Azure for quick servers spin up.
 
 This repo also shows a folder structure based on app and environment level. More specific:
 `<app-name>/<level>` -> `example.com/production`, `example.com/staging` etc.
