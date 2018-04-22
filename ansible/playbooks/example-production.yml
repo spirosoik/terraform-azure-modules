@@ -1,0 +1,10 @@
+---
+- name: Setup machine
+  hosts: production
+  become: yes
+  roles:
+    - angstwad.docker_ubuntu
+    - franklinkim.docker-compose
+  tags: [docker]
+
+

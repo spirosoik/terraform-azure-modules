@@ -1,0 +1,9 @@
+*.tfvars
+terraform.tfstate
+.terraform
+terraform.tfstate.backup
+.DS_Store
+.idea
+.vault_pass
+*.retry
+*.retry
