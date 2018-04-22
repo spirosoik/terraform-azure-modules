@@ -1,5 +1,5 @@
 ---
-- hosts: staging
+- hosts: production
   become: true
   gather_facts: false
   tasks:
