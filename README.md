@@ -35,7 +35,7 @@ Also in
 Example 
 -----
 
-An example of modules and the recommended project structure can be found in [Examples]((https://github.com/spirosoik/terraform-azure-modules/tree/master/example.com))
+An example of modules and the recommended project structure can be found [here](https://github.com/spirosoik/terraform-azure-modules/tree/master/example.com)
 
 ## License
 
